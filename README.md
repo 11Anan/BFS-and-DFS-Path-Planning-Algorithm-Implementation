@@ -26,13 +26,13 @@ This project aims to demonstrate how the BFS and DFS algorithms operate on a sim
 
 BFS is a level-order search algorithm that explores all nodes at the present depth before moving on to nodes at the next depth level. It is optimal for finding the shortest path in an unweighted graph because it visits nodes in the order of their distance from the source.
 
-![BFS Demo](images/bfs_demo.png)
+![BFS Demo](bfs_demo.png)
 
 ### Depth-First Search (DFS)
 
 DFS explores as far along a branch as possible before backtracking. While DFS may not guarantee the shortest path, it is useful in scenarios where a complete exploration of paths is necessary. It tends to go deeper into one path before backtracking and exploring other paths.
 
-![DFS Demo](images/dfs_demo.png)
+![DFS Demo](dfs_demo.png)
 
 ## Requirements
 
